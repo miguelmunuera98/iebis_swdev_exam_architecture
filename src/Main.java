@@ -9,7 +9,6 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        User angelica = new User("Angelica", "", 23, "", "", "", User.Gender.Female);
 
         Show gameThrones = new Show("Game of Thrones"); // The argument is the name of the TV Show
         Season gtSeason1 = new Season(1); // The argument is the number of the season
@@ -20,7 +19,7 @@ public class Main {
         // -----------------------
         // Implement here the code to make Angelica subscribes to Game of Thrones because is her favourite TV Show
         // Add your code here
-
+        
 
         // -----------------------
 
